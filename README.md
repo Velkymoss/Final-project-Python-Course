@@ -3,5 +3,4 @@ This short Data-Science project contains a webcrawler and a topic model of the c
 
 ![wc](https://user-images.githubusercontent.com/62018379/123708403-a36f1b00-d86b-11eb-8d30-7770276e52bc.png)
 
-
 Note: The souplist.txt file has not been added to the repository due to its large file size.
