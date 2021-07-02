@@ -5,4 +5,4 @@ Notes:
 
 a) The souplist.txt file has not been added to the repository due to its large file size.
 
-b) For some reason the pyLDAvis visualization of the topics is not plotted in the uploaded notebook on github. When the visualization is loaded in jupyter, everything      shows up.
+b) For some reason the pyLDAvis visualization of the topics is not plotted in the uploaded notebook on github. When the visualization is loaded in jupyter, everything shows up.
