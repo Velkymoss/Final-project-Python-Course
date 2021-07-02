@@ -3,7 +3,5 @@ This short Data-Science project contains a webcrawler and a topic model of the c
 
 
 Notes: 
-
 a)  The souplist.txt file has not been added to the repository due to its large file size.
-
 b)  For some reason the pyLDAvis visualization of the topics does not show up in the uploaded notebook on github.
